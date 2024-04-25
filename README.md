@@ -1,0 +1,1 @@
+These python scripts are purley for learning what i can do with python, will further be used to learn python better too. But a lot of AI will be used for these to get a feeling for what can be done before i start actually start writing my own python code.
